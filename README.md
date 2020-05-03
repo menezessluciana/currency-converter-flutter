@@ -1,4 +1,4 @@
-# conversor_moedas
+# Conversor de moedas(Real, Euro, Dolar)
 
 A new Flutter project.
 
